@@ -3,7 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="7971e716-40b9-4068-b651-e79a55dd8353" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/com/dev/basics/Print.py" afterPath="$PROJECT_DIR$/com/dev/basics/Print.py" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -87,6 +86,7 @@
   <component name="Git.Settings">
     <option name="PREVIOUS_COMMIT_AUTHORS">
       <list>
+        <option value="Vivek Tripathi &lt;vivek.tripathi.teewe@gmail.com&gt;" />
         <option value="VivekPythonDev &lt;vivek.tripathi.teewe@gmail.com&gt;" />
       </list>
     </option>
@@ -358,7 +358,14 @@
       <option name="project" value="LOCAL" />
       <updated>1497865856607</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Print statment functionality">
+      <created>1497936755721</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1497936755721</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -390,7 +397,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Basic Code" />
-    <option name="LAST_COMMIT_MESSAGE" value="Basic Code" />
+    <MESSAGE value="Print statment functionality" />
+    <option name="LAST_COMMIT_MESSAGE" value="Print statment functionality" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
