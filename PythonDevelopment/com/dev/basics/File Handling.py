@@ -3,5 +3,6 @@
 
 file = open("hello.txt","a")
 file.write("hello i am helloworld")
+file.write(" i am happy")
 print(file)
 file.close()
